@@ -11,7 +11,6 @@ img {
 </head>
 <body>
 
-<img src="https://www.dropbox.com/s/n5lkb90etbbaw5w/orarend.png?dl=1" alt="Órarend" >
 
 </body>
 
